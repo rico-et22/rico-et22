@@ -15,7 +15,7 @@ Since May 2020, I've been working at Forkflow, where I with my teammates develop
 [💼&nbsp;&nbsp;linkedin.com/in/kamil-pawlak-com](https://www.linkedin.com/in/kamil-pawlak-com/)
 
 [📄&nbsp;&nbsp;My CV/resume](https://bit.ly/2JBPKyl)
-### Take at look at my featured repos 👇
+### Take a look at my featured repos 👇
 
 <!--
 **rico-et22/rico-et22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
