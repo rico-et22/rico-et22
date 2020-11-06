@@ -14,6 +14,7 @@ Since May 2020, I've been working at Forkflow, where I with my teammates develop
 
 [💼&nbsp;&nbsp;linkedin.com/in/kamil-pawlak-com](https://www.linkedin.com/in/kamil-pawlak-com/)
 
+[📄&nbsp;&nbsp;My CV/resume](https://bit.ly/2JBPKyl)
 ### Take at look at my featured repos 👇
 
 <!--
