@@ -1,6 +1,6 @@
 ![Header image](https://kamilpawlak.com/og-image.jpg)
 ### Hi there 👋
-I'm a young and passionate front-end web developer coding with technologies like React, Next.js, Vue and Nuxt.
+I'm a passionate front-end web developer coding with technologies like React, Next.js, Vue and Nuxt.
 
 I love experimenting with new technologies, especially creating JAMStack-based websites with GraphQL-powered CMSs like GraphCMS and Contentful.
 
