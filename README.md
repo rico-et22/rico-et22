@@ -4,7 +4,7 @@ I'm a passionate front-end web developer coding with technologies like React, Ne
 
 I love experimenting with new technologies, especially creating JAMStack-based websites with GraphQL-powered CMSs like GraphCMS and Contentful.
 
-Since May 2020, I've been working at Forkflow, where I with my teammates developed [TheVeganKind Supermarket](https://thevegankindsupermarket.com), the biggest UK-based store for online vegan shopping.
+Currently (since July 2021), I'm developing React ⚛️ applications at [Seth Software](http://seth.software).
 
 **I'm open to any new job opportunities**, if you have one, feel free to contact me 😃
 
