@@ -1,9 +1,7 @@
 ![LinkedIn Background - after MYPLinkedInBg](https://user-images.githubusercontent.com/28688352/178156383-bb67d2ec-bb98-4f11-9cd2-6ebc71c1b933.png)
 ### Hi there 👋
 
-I'm a passionate front-end web developer coding with technologies like React, Next.js, Vue and Nuxt.
-
-I love experimenting with new technologies, especially creating JAMStack-based websites with GraphQL-powered CMSs like GraphCMS and Contentful.
+I'm a passionate front-end web developer coding with technologies like React and Next.js.
 
 Currently (since July 2021), I'm developing React ⚛️ applications at [Seth Software](http://seth.software).
 
