@@ -1,9 +1,9 @@
-![LinkedIn Background - after MYPLinkedInBg](https://user-images.githubusercontent.com/28688352/178156383-bb67d2ec-bb98-4f11-9cd2-6ebc71c1b933.png)
+<!--![LinkedIn Background - after MYPLinkedInBg](https://user-images.githubusercontent.com/28688352/178156383-bb67d2ec-bb98-4f11-9cd2-6ebc71c1b933.png)-->
 ### Hi there 👋
 
 I'm a passionate front-end web developer coding with technologies like React and Next.js.
 
-Currently (since July 2021), I'm developing React ⚛️ applications at [Seth Software](http://seth.software).
+Currently (since October 2022), I'm developing React ⚛️ applications at [mobitouch](https://mobitouch.net/).
 
 **I'm open to any new job opportunities**, if you have one, feel free to contact me 😃
 
