@@ -5,7 +5,7 @@ I'm a passionate front-end web developer coding with technologies like React and
 
 Currently (since October 2022), I'm developing React ⚛️ applications at [mobitouch](https://mobitouch.net/).
 
-**I'm open to any new job opportunities**, if you have one, feel free to contact me 😃
+Feel free to contact me 😃
 
 [✉️&nbsp;&nbsp;hello@kamilpawlak.com](mailto:hello@kamilpawlak.com)
 
@@ -13,7 +13,7 @@ Currently (since October 2022), I'm developing React ⚛️ applications at [mob
 
 [💼&nbsp;&nbsp;linkedin.com/in/kamil-pawlak-com](https://www.linkedin.com/in/kamil-pawlak-com/)
 
-[📄&nbsp;&nbsp;My CV/resume](https://bit.ly/2JBPKyl)
+[📄&nbsp;&nbsp;My CV/resume](https://assets.ctfassets.net/wlwqu9rqy540/5XDMd6XbI8fyARggjU7T9z/351e001c5ce54ccc34f38afd4a1a22f8/CV_Kamil_Pawlak.pdf)
 ### Take a look at my featured repos 👇
 
 <!--
