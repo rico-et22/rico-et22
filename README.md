@@ -1,4 +1,5 @@
-<!--![LinkedIn Background - after MYPLinkedInBg](https://user-images.githubusercontent.com/28688352/178156383-bb67d2ec-bb98-4f11-9cd2-6ebc71c1b933.png)-->
+![Lead image](https://github.com/user-attachments/assets/79b3b053-f3c6-4ad3-a8a2-b13651ca61e6)
+
 ### Hi there 👋
 
 I'm a passionate front-end web developer coding with technologies like React and Next.js.
